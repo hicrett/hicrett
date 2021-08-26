@@ -13,7 +13,6 @@ Helloo I'm Hicret👋
 </a>
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hicrett)&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://github-readme-stats.vercel.app/api?username=hicrett)
 
