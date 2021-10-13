@@ -16,6 +16,10 @@ Helloo I'm Hicret👋
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hicrett&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicrett&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hicrett)&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://github-readme-stats.vercel.app/api?username=hicrett) -->
 </p>
