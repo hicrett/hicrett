@@ -25,4 +25,6 @@ Helloo I'm Hicret👋
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicrett&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+![snake svg](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.svg)
+
 </p>
