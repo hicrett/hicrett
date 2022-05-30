@@ -18,6 +18,8 @@
 <a href="https://discord.com/channels/@hicrett#99"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
 </a>
 
+<!-- [![](https://visitcount.itsvg.in/api?id=hicrett&icon=0&color=4)](https://visitcount.itsvg.in) -->
+
 
 ## 🛠 Technologies & Tools 
  <p>
