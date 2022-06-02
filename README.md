@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 🔭 I’m currently working on Mobile Programming especially Flutter. <br>
-🌱 I’m currently learning Android Mobile Programming with Kotlin. <br>
+🌱 I’m currently learning native Android Mobile Programming. <br>
 <!-- 👯 I’m looking to collaborate people for Flutter learning. <br> -->
 <a href="https://hicrett.github.io/"<b>My Portfolio✨</b></a><br>
 <p align='center'> 
