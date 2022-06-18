@@ -6,10 +6,10 @@
 🔭 I’m currently working on Mobile Programming especially Flutter. <br>
 🌱 I’m currently learning native Android Mobile Programming. <br>
 <!-- 👯 I’m looking to collaborate people for Flutter learning. <br> -->
-<a href="https://hicrett.github.io/"<b>My Portfolio✨</b></a><br>
+<a href="https://hicretay.github.io/"<b>My Portfolio✨</b></a><br>
 <p align='center'> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hicrett/count.svg" />
+  <img src="https://profile-counter.glitch.me/hicretay/count.svg" />
 </p>
 
 ## 📫 How to reach me
@@ -40,17 +40,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicrett&show_icons=true&count_private=true&theme=dark" width="350">
- <img src="https://github-readme-stats.vercel.app/api?username=hicrett&show_icons=true&count_private=true&theme=dark" width="350">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicretay&show_icons=true&count_private=true&theme=dark" width="350">
+ <img src="https://github-readme-stats.vercel.app/api?username=hicretay&show_icons=true&count_private=true&theme=dark" width="350">
   
 <br />
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hicrett&theme=dark&count_private=true" alt="hicrett" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hicretay&theme=dark&count_private=true" alt="hicretay" />
 </p>
 <br/>
 
-![snake svg](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/hicretay/hicretay/blob/output/github-contribution-grid-snake.svg)
 <!-- ![snake gif](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.gif) -->
 
 </p>
