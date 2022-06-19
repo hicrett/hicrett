@@ -17,7 +17,7 @@
 <a href="mailto:hiicretay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/channels/@hicrett#99"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://medium.com/@hiicretay"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@hicretay"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=hicrett&icon=0&color=4)](https://visitcount.itsvg.in) -->
