@@ -19,10 +19,6 @@
 </a>
 <a href="https://medium.com/@hicretay"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="110" height="35"></a>&nbsp;&nbsp;&nbsp;
 
-
-<!-- [![](https://visitcount.itsvg.in/api?id=hicrett&icon=0&color=4)](https://visitcount.itsvg.in) -->
-
-
 ## 🛠 Technologies & Tools 
  <p>
        <img src="https://img.icons8.com/color/48/000000/flutter.png" /> &nbsp;&nbsp;
