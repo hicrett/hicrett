@@ -29,6 +29,8 @@
             <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> &nbsp;&nbsp;
             <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> &nbsp;&nbsp;
             <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> &nbsp;&nbsp;
+            <img src="https://img.icons8.com/color/48/000000/xcode.png"/> &nbsp;&nbsp;
+            <img src="https://img.icons8.com/color/48/000000/swiftui.png"/> &nbsp;&nbsp;  
   
 <br />
 </p>
