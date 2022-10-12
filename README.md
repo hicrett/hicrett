@@ -4,8 +4,8 @@
 </p>
 <p align="center">
 🔭 I’m currently working on Mobile Programming especially Flutter. <br>
-🌱 I’m currently learning native Android Mobile Programming. <br>
-<!-- 👯 I’m looking to collaborate people for Flutter learning. <br> -->
+🌱 I’m currently learning SwiftUI. <br>
+<!-- 👯 I’m looking to collaborate people for Flutter and SwiftUI learning. <br> -->
 <a href="https://hicretay.github.io/"<b>My Portfolio✨</b></a><br>
 <p align='center'> 
   Visitor count<br>
@@ -31,6 +31,8 @@
             <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> &nbsp;&nbsp;
             <img src="https://img.icons8.com/color/48/000000/xcode.png"/> &nbsp;&nbsp;
             <img src="https://img.icons8.com/color/48/000000/swiftui.png"/> &nbsp;&nbsp;  
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> &nbsp;&nbsp;
+            <img src="https://img.icons8.com/fluency/48/000000/figma.png"/> &nbsp;&nbsp; 
   
 <br />
 </p>
