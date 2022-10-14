@@ -3,7 +3,7 @@
   Helloo I'm Hicret👋
 </p>
 <p align="center">
-🔭 I’m currently working on Mobile Programming especially Flutter. <br>
+🔭 I’m working on Mobile Programming especially Flutter. <br>
 🌱 I’m currently learning SwiftUI. <br>
 <!-- 👯 I’m looking to collaborate people for Flutter and SwiftUI learning. <br> -->
 <a href="https://hicretay.github.io/"<b>My Portfolio✨</b></a><br>
