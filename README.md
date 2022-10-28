@@ -39,8 +39,10 @@
 
 ## 📊 GitHub Stats
 
+![Hicret's GitHub stats](https://github-readme-stats.vercel.app/api?username=hicretay&show_icons=true&theme=radical)
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicretay&show_icons=true&count_private=true&theme=dark" width="350">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicretay&show_icons=true&count_private=false&theme=dark" width="350">
  <img src="https://github-readme-stats.vercel.app/api?username=hicretay&show_icons=true&count_private=true&theme=dark" width="350">
   
 <br />
