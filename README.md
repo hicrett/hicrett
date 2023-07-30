@@ -50,7 +50,7 @@
 </p>
 <br/>
 
-![snake svg](https://github.com/hicretay/hicretay/blob/output/github-contribution-grid-snake.svg)
-<!-- ![snake gif](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake svg](https://github.com/hicretay/hicretay/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/hicrett/hicrett/blob/output/github-contribution-grid-snake.gif)
 
 </p>
